@@ -8,49 +8,49 @@
   {
     "id": "2",
     "name": "Green fresh savoy cabbage leaves",
-    "price": 420,
+    "price": 300,
     "img": "https://img.freepik.com/free-photo/green-fresh-savoy-cabbage-leaves-flat-lay-dark-wooden-background_296586-5113.jpg?w=1060"
   },
   {
     "id": "3",
     "name": "red tomato",
-    "price": 420,
+    "price": 200,
     "img": "https://img.freepik.com/free-photo/one-fresh-red-tomato-isolated-white_1205-548.jpg?1&t=st=1648230813~exp=1648231413~hmac=5d8997667088fcc4cdc5ea9c158fe13bd3a04a292fac5f6d2337e1e61e773749&w=1060"
   },
   {
     "id": "4",
     "name": "Green oak",
-    "price": 420,
+    "price": 100,
     "img": "https://img.freepik.com/free-photo/green-oak_1339-914.jpg?t=st=1648230813~exp=1648231413~hmac=94fc6345d1ca5f19fde9b98484863fb5d3db8cbac9129ad0db683e5d76da2eba&w=740"
   },
   {
     "id": "5",
     "name": "Bell pepper",
-    "price": 420,
+    "price": 200,
     "img": "https://img.freepik.com/free-photo/bell-pepper_1339-1598.jpg?t=st=1648230942~exp=1648231542~hmac=8748f60e2f888d50f45daf777c3c97b9121260f663350080263669964f11d57c&w=1060"
   },
   {
     "id": "6",
     "name": "Carrots",
-    "price": 420,
+    "price": 300,
     "img": "https://img.freepik.com/free-photo/carrots-ready-eat_1205-49.jpg?1&t=st=1648231037~exp=1648231637~hmac=132d1f871469d486605e15b47952541588af26c8e6024655fae663061a431e8a&w=1060"
   },
   {
     "id": "7",
     "name": "broccoli",
-    "price": 420,
+    "price": 500,
     "img": "https://img.freepik.com/free-photo/fresh-broccoli-isolated_144627-30009.jpg?t=st=1648231085~exp=1648231685~hmac=efaa1b15741a0428fb99d213b75f6f18b952eff997b4f91cb37fb70a05779516&w=1060"
   },
   {
     "id": "8",
     "name": "Kabocha",
-    "price": 420,
+    "price": 900,
     "img": "https://img.freepik.com/free-photo/kabocha-isolated-white-background_92534-2534.jpg?w=1060"
   },
   {
     "id": "9",
     "name": "aubergines",
-    "price": 420,
+    "price": 1000,
     "img": "https://img.freepik.com/free-photo/front-view-aubergines-tree-wood-board-blue-white-background-free-place_140725-108341.jpg?w=1060"
   }
 ]
