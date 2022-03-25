@@ -17,8 +17,8 @@ const Shop = () => {
   // state for cart
   const [cart, setCart] = useState([]);
 
+  // event handler
   const handleAddToCart = (vegetable) => {
-    console.log(vegetable);
     const newCart = [...cart, vegetable];
     setCart(newCart);
   };
@@ -39,8 +39,7 @@ const Shop = () => {
 
       {/* cart-container */}
       <div className="cart-container">
-        <h1>order summary</h1>
-        <p>selected items{cart.length}</p>
+        <Cart cart={cart}></Cart>
       </div>
     </div>
   );
