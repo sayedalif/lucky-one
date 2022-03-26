@@ -26,6 +26,7 @@
   border: none;
   border-radius: 10px;
   cursor: pointer;
+  text-transform: capitalize;
 }
 
 .remove-btn {
@@ -35,6 +36,17 @@
   border: none;
   border-radius: 10px;
   cursor: pointer;
+  text-transform: capitalize;
+}
+
+.choose-again-btn {
+  position: absolute;
+  bottom: 10px;
+  right: 33%;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  text-transform: capitalize;
 }
 
 @media only screen and (max-width: 600px) {

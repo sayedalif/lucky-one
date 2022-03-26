@@ -57,6 +57,10 @@ const Shop = () => {
         <button onClick={removeAll} className="remove-btn">
           <p>remove all</p>
         </button>
+
+        <button className="choose-again-btn">
+          <p>choose again</p>
+        </button>
       </div>
     </div>
   );
