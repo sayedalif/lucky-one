@@ -11,7 +11,30 @@
 }
 
 .cart-container {
+  margin-top: 81px;
   background-color: rgba(255, 153, 0, 0.3);
+  width: 300px;
+  height: 500px;
+  border-radius: 20px;
+  position: relative;
+}
+
+.choose-btn {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.remove-btn {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 600px) {

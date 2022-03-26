@@ -1,4 +1,17 @@
-.cart {
-  position: sticky;
-  top: 0;
+.product-cart {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 3px;
+  margin: 3px 9px;
+}
+
+.cart-title {
+  display: inline-block;
+  margin: 0;
+}
+
+.cart-img {
+  width: 10%;
+  height: 10%;
 }

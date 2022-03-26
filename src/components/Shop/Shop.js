@@ -23,6 +23,14 @@ const Shop = () => {
     setCart(newCart);
   };
 
+  // choose one
+
+  // remove all
+
+  const removeAll = () => {
+    setCart([]);
+  };
+
   return (
     // shop-container
     <div className="shop-container">
@@ -39,7 +47,16 @@ const Shop = () => {
 
       {/* cart-container */}
       <div className="cart-container">
-        <Cart cart={cart}></Cart>
+        {cart.map((item) => (
+          <Cart item={item} key={item.id}></Cart>
+        ))}
+        <button onClick={() => console.log('got it')} className="choose-btn">
+          <p>choose one</p>
+        </button>
+        <p></p>
+        <button onClick={removeAll} className="remove-btn">
+          <p>remove all</p>
+        </button>
       </div>
     </div>
   );

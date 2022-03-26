@@ -1,12 +1,15 @@
-import React from 'react';
-import './Cart.css';
-
+// cart
 const Cart = (props) => {
-  console.log(props);
+  const { name, img, id } = props.item;
+
+  console.log(props.item);
+
   return (
-    <div className="cart">
-      <h1>order summary</h1>
-      <p>selected items{props.cart.length}</p>
+    <div>
+      <div className="product-cart">
+        <p className="cart-title">Name: {name}</p>
+        {/* <img className="cart-img" src={img} alt="" /> */}
+      </div>
     </div>
   );
 };
