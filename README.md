@@ -1,3 +1,3 @@
 # Diet Store
 
-live website via netlify [live-website-link](https://github.com/facebook/create-react-app).
+live website via netlify [live-website-link](https://meek-dango-c2cbdd.netlify.app/).
